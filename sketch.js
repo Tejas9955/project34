@@ -7,7 +7,7 @@ const Constraint = Matter.Constraint;
 
 function preload()
 {
-	backgroundImage = loadImage("images/GamingBackground.png");
+	backgroundImage = loadImage("GamingBackground.png");
 }
 
 function setup() {
